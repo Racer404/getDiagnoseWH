@@ -10,8 +10,12 @@ HOW THIS WORKS?
 (已在新版中被废除
 <del>SELENIUM</del>from https://ncov.dxy.cn/ncovh5/view/pneumonia
 
+
+
 HTTP requestLocation(HTTP请求地址Location)
 API:
+
+
 [GLOBAL](GET)(全球)
 http://api.tianapi.com/txapi/ncovabroad/index
 param:?key=f1b1ff0ecc9eb27d2a17bff48f32a168
